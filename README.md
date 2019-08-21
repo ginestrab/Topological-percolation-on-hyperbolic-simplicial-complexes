@@ -1,9 +1,6 @@
 # Topological-percolation-on-hyperbolic-simplicial-complexes
 
 
-
-Topological-percolation-on-hyperbolic-simplicial-complexes**
-
 This data reposititory contains 1 Mathematica  code companion of the article [1]
 
    Triangle_Percolation_Notebook.nb
