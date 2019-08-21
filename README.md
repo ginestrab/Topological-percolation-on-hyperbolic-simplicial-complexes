@@ -9,7 +9,7 @@ For programs  performing the RG calculations for 2-dimensional simplicial and ce
 
 This program is distributed by the authors in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-If you use any of these codes please cite
+If you use any of this code please cite
 
 [1] G. Bianconi and R. M. Ziff "Topological Percolation on  Hyperbolic Simplicial Complexes" Physical Review E 98, 052308 (2018)
 
